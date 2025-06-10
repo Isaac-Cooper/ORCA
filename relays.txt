@@ -1,0 +1,4 @@
+relay 1
+relay 2
+relay 3
+etc
