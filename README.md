@@ -1,2 +1,2 @@
 # ORCA
-Onion Routed Chat App
+Onion Routed Communications App
